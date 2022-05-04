@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Project_DocumentsGenerator_A.OutJob
 Description=
-TargetOutputMedium=02_Drawings_A
+TargetOutputMedium=01_Schematics
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -63,7 +63,7 @@ OutputName2=Schematic Prints
 OutputCategory2=Documentation
 OutputDocumentPath2=[Project Physical Documents]
 OutputVariantName2=
-OutputEnabled2=0
+OutputEnabled2=1
 OutputEnabled2_OutputMedium1=1
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=0
@@ -78,7 +78,7 @@ OutputName3=Assembly Drawings
 OutputCategory3=Assembly
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=1
@@ -207,7 +207,7 @@ OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [PublishSettings]
-OutputFilePath1=C:\EST_Floattech\01_Embedded_Development\01_Hardware\02_Projects\21003_StringControllerBoard\Trunk\Output Documents\01_Schematics\variantName.PDF
+OutputFilePath1=C:\Dott\LIDO\lido-hardware\LIDO_HW_2022_04_V01\Output Documents\01_Schematics\LIDO_HW_2022_04_V01.PDF
 ReleaseManaged1=0
 OutputBasePath1=Output Documents\
 OutputPathMedia1=[Media Name]
@@ -215,10 +215,10 @@ OutputPathMediaValue1=
 OutputPathOutputer1=[Output Type]
 OutputPathOutputerPrefix1=
 OutputPathOutputerValue1=
-OutputFileName1=21003.StringControllerBoard.PDF
+OutputFileName1=Project_DocumentsGenerator_A.PDF
 OutputFileNameMulti1=
 UseOutputNameForMulti1=0
-OutputFileNameSpecial1==variantName
+OutputFileNameSpecial1==ProjectBoardName
 OpenOutput1=1
 PromptOverwrite1=1
 PublishMethod1=0
@@ -316,7 +316,7 @@ OutputFileNameSpecial5=
 OpenOutput5=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath1=C:\EST_Floattech\01_Embedded_Development\01_Hardware\02_Projects\21003_StringControllerBoard\Trunk\Output Documents\01_Schematics\variantName.PDF
+RelativeOutputPath1=C:\Dott\LIDO\lido-hardware\LIDO_HW_2022_04_V01\Output Documents\01_Schematics\LIDO_HW_2022_04_V01.PDF
 OpenOutputs1=1
 RelativeOutputPath2=C:\EST_Floattech\01_Embedded_Development\01_Hardware\02_Projects\21007_EM-STOP\Output Documents\03_Fabrication_Files\
 OpenOutputs2=1

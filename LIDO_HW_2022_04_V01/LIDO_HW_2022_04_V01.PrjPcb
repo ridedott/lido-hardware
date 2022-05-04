@@ -174,7 +174,7 @@ AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=8
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -185,24 +185,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NVXSONQO
 
 [Document9]
-DocumentPath=LIDO-HW.100.InputStage.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=100
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BOLNJGYZ
-
-[Document10]
-DocumentPath=LIDO-HW.100.OutputStage.SchDoc
+DocumentPath=LIDO-HW.100.InputStage_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
@@ -216,16 +199,16 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NEWMAJIJ
+DocumentUniqueId=BOLNJGYZ
 
-[Document11]
-DocumentPath=LIDO-HW.200.MCU_Peripherals_1.SchDoc
+[Document10]
+DocumentPath=LIDO-HW.100.InputStage_2.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=200
+AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=9
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -233,10 +216,27 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ZBABOITZ
+DocumentUniqueId=XGVVBGIE
+
+[Document11]
+DocumentPath=LIDO-HW.100.OutputStage.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=100
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NEWMAJIJ
 
 [Document12]
-DocumentPath=LIDO-HW.200.MCU_Peripherals_2.SchDoc
+DocumentPath=LIDO-HW.200.MCU_Peripherals_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
@@ -250,10 +250,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EHGBPKNY
+DocumentUniqueId=ZBABOITZ
 
 [Document13]
-DocumentPath=LIDO-HW.200.MCU_SWD_Reset.SchDoc
+DocumentPath=LIDO-HW.200.MCU_Peripherals_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
@@ -267,10 +267,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NCTAFULN
+DocumentUniqueId=EHGBPKNY
 
 [Document14]
-DocumentPath=LIDO-HW.200.SecurityAndTemperature.SchDoc
+DocumentPath=LIDO-HW.200.MCU_SWD_Reset.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
@@ -284,12 +284,12 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WAXCMVXK
+DocumentUniqueId=NCTAFULN
 
 [Document15]
-DocumentPath=LIDO-HW.300.VehicleInterface.SchDoc
+DocumentPath=LIDO-HW.200.SecurityAndTemperature.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=300
+AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
@@ -301,10 +301,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QMXIBJZN
+DocumentUniqueId=WAXCMVXK
 
 [Document16]
-DocumentPath=LIDO-HW.300.DisplayInterface.SchDoc
+DocumentPath=LIDO-HW.300.VehicleInterface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=300
 AnnotationIndexControlEnabled=1
@@ -318,10 +318,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CYOKXGOI
+DocumentUniqueId=QMXIBJZN
 
 [Document17]
-DocumentPath=LIDO-HW.300.StatusLightInterface.SchDoc
+DocumentPath=LIDO-HW.300.DisplayInterface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=300
 AnnotationIndexControlEnabled=1
@@ -335,12 +335,12 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NUGGXYRZ
+DocumentUniqueId=CYOKXGOI
 
 [Document18]
-DocumentPath=LIDO-HW.400.AccessoryInterfaces.SchDoc
+DocumentPath=LIDO-HW.300.StatusLightInterface.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=400
+AnnotateStartValue=300
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
@@ -352,7 +352,41 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+DocumentUniqueId=NUGGXYRZ
+
+[Document19]
+DocumentPath=LIDO-HW.400.AccessoryInterfaces.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=400
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=17
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=ACEISAVL
+
+[Document20]
+DocumentPath=..\..\..\Altium DataBase\DataBase_Library\DB_Library.DbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Parameter1]
 Name=Company_Name

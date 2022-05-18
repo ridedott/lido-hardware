@@ -84,24 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=URALBWDW
 
 [Document3]
-DocumentPath=LIDO-HW.002.BlockDiagram.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ESLMFAHY
-
-[Document4]
-DocumentPath=LIDO-HW.003.RevisionHistory.SchDoc
+DocumentPath=LIDO-HW.002.RevisionHistory.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -117,14 +100,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JEAPVPHA
 
-[Document5]
-DocumentPath=LIDO-HW.004.RevisionHistory.SchDoc
+[Document4]
+DocumentPath=LIDO-HW.003.BlockDiagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=3
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -132,9 +115,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VBPNYEKM
+DocumentUniqueId=ESLMFAHY
 
-[Document6]
+[Document5]
 DocumentPath=LIDO-HW.100.FrontConnector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBWKUOSS
 
-[Document7]
+[Document6]
 DocumentPath=LIDO-HW.100.RearConnector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWZCQZXE
 
-[Document8]
+[Document7]
 DocumentPath=LIDO-HW.100.VinAndPower.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVXSONQO
 
-[Document9]
+[Document8]
 DocumentPath=LIDO-HW.100.InputStage_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOLNJGYZ
 
-[Document10]
+[Document9]
 DocumentPath=LIDO-HW.100.InputStage_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XGVVBGIE
 
-[Document11]
+[Document10]
 DocumentPath=LIDO-HW.100.OutputStage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NEWMAJIJ
 
-[Document12]
+[Document11]
 DocumentPath=LIDO-HW.200.MCU_Peripherals_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=200
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZBABOITZ
 
-[Document13]
+[Document12]
 DocumentPath=LIDO-HW.200.MCU_Peripherals_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=200
@@ -270,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHGBPKNY
 
-[Document14]
+[Document13]
 DocumentPath=LIDO-HW.200.MCU_SWD_Reset.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=200
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCTAFULN
 
-[Document15]
+[Document14]
 DocumentPath=LIDO-HW.200.SecurityAndTemperature.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=200
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WAXCMVXK
 
-[Document16]
+[Document15]
 DocumentPath=LIDO-HW.300.VehicleInterface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=300
@@ -321,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMXIBJZN
 
-[Document17]
+[Document16]
 DocumentPath=LIDO-HW.300.DisplayInterface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=300
@@ -338,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CYOKXGOI
 
-[Document18]
+[Document17]
 DocumentPath=LIDO-HW.300.StatusLightInterface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=300
@@ -355,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NUGGXYRZ
 
-[Document19]
+[Document18]
 DocumentPath=LIDO-HW.400.AccessoryInterfaces.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=400
@@ -372,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACEISAVL
 
-[Document20]
+[Document19]
 DocumentPath=..\..\..\Altium DataBase\DataBase_Library\DB_Library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ UniqueID=A8A12B6F-CE80-4C79-BEC0-1E41FE74EF94
 Description=DEVELOPMENT
 AllowFabrication=0
 ParameterCount=0
-VariationCount=30
+VariationCount=61
 Variation1=Designator=D129|UniqueId=\WRECDUJS|Kind=1|AlternatePart= 
 Variation2=Designator=C134|UniqueId=\FDTZURTQ|Kind=1|AlternatePart= 
 Variation3=Designator=C138|UniqueId=\IDPUKUKU|Kind=1|AlternatePart= 
@@ -425,6 +408,37 @@ Variation27=Designator=R403|UniqueId=\ZWMGKHHO|Kind=1|AlternatePart=
 Variation28=Designator=R405|UniqueId=\ZZUYHEPX|Kind=1|AlternatePart= 
 Variation29=Designator=R407|UniqueId=\RBYVRCSL|Kind=1|AlternatePart= 
 Variation30=Designator=R408|UniqueId=\WQLVBZSW|Kind=1|AlternatePart= 
+Variation31=Designator=D129|UniqueId=\IKXHVVUH\WRECDUJS|Kind=1|AlternatePart= 
+Variation32=Designator=C134|UniqueId=\ZXUAOUAZ\FDTZURTQ|Kind=1|AlternatePart= 
+Variation33=Designator=C138|UniqueId=\ZXUAOUAZ\IDPUKUKU|Kind=1|AlternatePart= 
+Variation34=Designator=C140|UniqueId=\ZXUAOUAZ\RMIEEUBE|Kind=1|AlternatePart= 
+Variation35=Designator=C144|UniqueId=\ZXUAOUAZ\EUDPHVUH|Kind=1|AlternatePart= 
+Variation36=Designator=R141|UniqueId=\HHTLDOBW\HOACEBZD|Kind=1|AlternatePart= 
+Variation37=Designator=C154|UniqueId=\HHTLDOBW\TTJFKXHZ|Kind=1|AlternatePart= 
+Variation38=Designator=C157|UniqueId=\HHTLDOBW\DSLUHPIE|Kind=1|AlternatePart= 
+Variation39=Designator=R147|UniqueId=\HHTLDOBW\MYBXLKSV|Kind=1|AlternatePart= 
+Variation40=Designator=R148|UniqueId=\HHTLDOBW\ZTGEJWMV|Kind=1|AlternatePart= 
+Variation41=Designator=C158|UniqueId=\UYBGNSKM\THXPLJLH|Kind=1|AlternatePart= 
+Variation42=Designator=R170|UniqueId=\UYBGNSKM\JQMGORGT|Kind=1|AlternatePart= 
+Variation43=Designator=R171|UniqueId=\UYBGNSKM\XIYPIEZC|Kind=1|AlternatePart= 
+Variation44=Designator=R153|UniqueId=\UYBGNSKM\FSVEQZJP|Kind=1|AlternatePart= 
+Variation45=Designator=R161|UniqueId=\UYBGNSKM\RRMMQYDX|Kind=1|AlternatePart= 
+Variation46=Designator=R154|UniqueId=\UYBGNSKM\NUNCURJT|Kind=1|AlternatePart= 
+Variation47=Designator=R162|UniqueId=\UYBGNSKM\RFWZFSKB|Kind=1|AlternatePart= 
+Variation48=Designator=R155|UniqueId=\UYBGNSKM\ZSATZDJR|Kind=1|AlternatePart= 
+Variation49=Designator=R159|UniqueId=\UYBGNSKM\OFOSCWAY|Kind=1|AlternatePart= 
+Variation50=Designator=R156|UniqueId=\UYBGNSKM\FLOZHRJS|Kind=1|AlternatePart= 
+Variation51=Designator=R164|UniqueId=\UYBGNSKM\DWRHAVWY|Kind=1|AlternatePart= 
+Variation52=Designator=C221|UniqueId=\VZMBMHNO\YGVOXBGG|Kind=1|AlternatePart= 
+Variation53=Designator=R301|UniqueId=\XWGJVJMJ\GHRWEQBS|Kind=1|AlternatePart= 
+Variation54=Designator=R303|UniqueId=\XWGJVJMJ\QKKVWWIC|Kind=1|AlternatePart= 
+Variation55=Designator=R304|UniqueId=\XWGJVJMJ\AVOTSHLP|Kind=1|AlternatePart= 
+Variation56=Designator=R309|UniqueId=\WUZSKAOW\GPXSGESA|Kind=1|AlternatePart= 
+Variation57=Designator=R313|UniqueId=\GOXSXVKM\NTGRHCAE|Kind=1|AlternatePart= 
+Variation58=Designator=R403|UniqueId=\EXQVUWJW\ZWMGKHHO|Kind=1|AlternatePart= 
+Variation59=Designator=R405|UniqueId=\EXQVUWJW\ZZUYHEPX|Kind=1|AlternatePart= 
+Variation60=Designator=R407|UniqueId=\EXQVUWJW\RBYVRCSL|Kind=1|AlternatePart= 
+Variation61=Designator=R408|UniqueId=\EXQVUWJW\WQLVBZSW|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -477,7 +491,7 @@ Value=LIDO
 
 [Parameter12]
 Name=PopulateLabel
-Value=
+Value=NF
 
 [Parameter13]
 Name=MainProjectName
@@ -1292,7 +1306,7 @@ Type6=2
 Type7=0
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=0
 Type13=0
@@ -1347,7 +1361,7 @@ Type61=0
 Type62=0
 Type63=0
 Type64=0
-Type65=2
+Type65=0
 Type66=3
 Type67=2
 Type68=2

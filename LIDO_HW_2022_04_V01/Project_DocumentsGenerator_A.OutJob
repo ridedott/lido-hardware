@@ -61,7 +61,7 @@ Configuration1_Item6=Designator=446|Manufacturer=100|Manufacturer Part Number=10
 OutputType2=Schematic Print
 OutputName2=Schematic Prints
 OutputCategory2=Documentation
-OutputDocumentPath2=[Project Physical Documents]
+OutputDocumentPath2=
 OutputVariantName2=
 OutputEnabled2=1
 OutputEnabled2_OutputMedium1=1

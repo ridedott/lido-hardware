@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for LIDO_HW_2022_04_V01
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=DEVELOPMENT
 
 [Preferences]
 PrefsVaultGUID=
@@ -388,12 +389,46 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=A8A12B6F-CE80-4C79-BEC0-1E41FE74EF94
+Description=DEVELOPMENT
+AllowFabrication=0
+ParameterCount=0
+VariationCount=30
+Variation1=Designator=D129|UniqueId=\WRECDUJS|Kind=1|AlternatePart= 
+Variation2=Designator=C134|UniqueId=\FDTZURTQ|Kind=1|AlternatePart= 
+Variation3=Designator=C138|UniqueId=\IDPUKUKU|Kind=1|AlternatePart= 
+Variation4=Designator=C140|UniqueId=\RMIEEUBE|Kind=1|AlternatePart= 
+Variation5=Designator=C144|UniqueId=\EUDPHVUH|Kind=1|AlternatePart= 
+Variation6=Designator=R141|UniqueId=\HOACEBZD|Kind=1|AlternatePart= 
+Variation7=Designator=C154|UniqueId=\TTJFKXHZ|Kind=1|AlternatePart= 
+Variation8=Designator=C157|UniqueId=\DSLUHPIE|Kind=1|AlternatePart= 
+Variation9=Designator=R147|UniqueId=\MYBXLKSV|Kind=1|AlternatePart= 
+Variation10=Designator=R148|UniqueId=\ZTGEJWMV|Kind=1|AlternatePart= 
+Variation11=Designator=C158|UniqueId=\THXPLJLH|Kind=1|AlternatePart= 
+Variation12=Designator=R153|UniqueId=\FSVEQZJP|Kind=1|AlternatePart= 
+Variation13=Designator=R161|UniqueId=\RRMMQYDX|Kind=1|AlternatePart= 
+Variation14=Designator=R162|UniqueId=\RFWZFSKB|Kind=1|AlternatePart= 
+Variation15=Designator=R154|UniqueId=\NUNCURJT|Kind=1|AlternatePart= 
+Variation16=Designator=R159|UniqueId=\OFOSCWAY|Kind=1|AlternatePart= 
+Variation17=Designator=R155|UniqueId=\ZSATZDJR|Kind=1|AlternatePart= 
+Variation18=Designator=R156|UniqueId=\FLOZHRJS|Kind=1|AlternatePart= 
+Variation19=Designator=R164|UniqueId=\DWRHAVWY|Kind=1|AlternatePart= 
+Variation20=Designator=R170|UniqueId=\JQMGORGT|Kind=1|AlternatePart= 
+Variation21=Designator=R171|UniqueId=\XIYPIEZC|Kind=1|AlternatePart= 
+Variation22=Designator=R301|UniqueId=\GHRWEQBS|Kind=1|AlternatePart= 
+Variation23=Designator=R303|UniqueId=\QKKVWWIC|Kind=1|AlternatePart= 
+Variation24=Designator=R304|UniqueId=\AVOTSHLP|Kind=1|AlternatePart= 
+Variation25=Designator=R309|UniqueId=\GPXSGESA|Kind=1|AlternatePart= 
+Variation26=Designator=R313|UniqueId=\NTGRHCAE|Kind=1|AlternatePart= 
+Variation27=Designator=R403|UniqueId=\ZWMGKHHO|Kind=1|AlternatePart= 
+Variation28=Designator=R405|UniqueId=\ZZUYHEPX|Kind=1|AlternatePart= 
+Variation29=Designator=R407|UniqueId=\RBYVRCSL|Kind=1|AlternatePart= 
+Variation30=Designator=R408|UniqueId=\WQLVBZSW|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Output Documents\04_BOM\LIDO_HW_V02_17052022.xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Output Documents\04_BOM\LIDO_HW_V02_17052022.xlsx
 DItemRevisionGUID=
 
 [Parameter1]
@@ -442,7 +477,7 @@ Value=LIDO
 
 [Parameter12]
 Name=PopulateLabel
-Value=*Param
+Value=
 
 [Parameter13]
 Name=MainProjectName
@@ -457,28 +492,28 @@ Name=HardwareDesigner
 Value=FG
 
 [Parameter16]
+Name=EngineeringSample
+Value=B-Sample
+
+[Parameter17]
 Name=Company_Name
 Value=Dott (emTransit B.V.)
 
-[Parameter17]
+[Parameter18]
 Name=CompanyAddress4
 Value=The Netherlands
 
-[Parameter18]
+[Parameter19]
 Name=CompanyAddress3
 Value=1013 CR, Amsterdam
 
-[Parameter19]
+[Parameter20]
 Name=CompanyAddress2
 Value=Van Diemenstraat 292
 
-[Parameter20]
+[Parameter21]
 Name=CompanyAddress1
 Value=Westerdok
-
-[Parameter21]
-Name=EngineeringSample
-Value=B-Sample
 
 [Configuration1]
 Name=Sources
@@ -491,7 +526,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for LIDO_HW_2022_04_V01
 
 [OutputGroup1]
 Name=Netlist Outputs

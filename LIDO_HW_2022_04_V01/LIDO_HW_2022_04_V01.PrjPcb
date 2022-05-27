@@ -49,6 +49,11 @@ CurrentVariant=DEVELOPMENT
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
+[Release]
+ReleaseTarget=1
+ReleaseFolderPath=[OutputPath]
+ReleaseZipPath=[OutputPath][ProjectName].zip
+
 [Document1]
 DocumentPath=Project_DocumentsGenerator_A.OutJob
 AnnotationEnabled=1
@@ -68,7 +73,7 @@ DocumentUniqueId=
 
 [Document2]
 DocumentPath=LIDO-HW.001.CoverPage.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -85,12 +90,12 @@ DocumentUniqueId=URALBWDW
 
 [Document3]
 DocumentPath=LIDO-HW.002.RevisionHistory.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -102,12 +107,12 @@ DocumentUniqueId=JEAPVPHA
 
 [Document4]
 DocumentPath=LIDO-HW.003.BlockDiagram.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -221,7 +226,7 @@ DocumentUniqueId=NEWMAJIJ
 
 [Document11]
 DocumentPath=LIDO-HW.200.MCU_Peripherals_1.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -238,7 +243,7 @@ DocumentUniqueId=ZBABOITZ
 
 [Document12]
 DocumentPath=LIDO-HW.200.MCU_Peripherals_2.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -255,7 +260,7 @@ DocumentUniqueId=EHGBPKNY
 
 [Document13]
 DocumentPath=LIDO-HW.200.MCU_SWD_Reset.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -272,7 +277,7 @@ DocumentUniqueId=NCTAFULN
 
 [Document14]
 DocumentPath=LIDO-HW.200.SecurityAndTemperature.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -289,7 +294,7 @@ DocumentUniqueId=WAXCMVXK
 
 [Document15]
 DocumentPath=LIDO-HW.300.VehicleInterface.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=300
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -306,7 +311,7 @@ DocumentUniqueId=QMXIBJZN
 
 [Document16]
 DocumentPath=LIDO-HW.300.DisplayInterface.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=300
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -323,7 +328,7 @@ DocumentUniqueId=CYOKXGOI
 
 [Document17]
 DocumentPath=LIDO-HW.300.StatusLightInterface.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=300
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -340,7 +345,7 @@ DocumentUniqueId=NUGGXYRZ
 
 [Document18]
 DocumentPath=LIDO-HW.400.AccessoryInterfaces.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=400
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -394,7 +399,7 @@ UniqueID=A8A12B6F-CE80-4C79-BEC0-1E41FE74EF94
 Description=DEVELOPMENT
 AllowFabrication=0
 ParameterCount=0
-VariationCount=61
+VariationCount=62
 Variation1=Designator=D129|UniqueId=\WRECDUJS|Kind=1|AlternatePart= 
 Variation2=Designator=C134|UniqueId=\FDTZURTQ|Kind=1|AlternatePart= 
 Variation3=Designator=C138|UniqueId=\IDPUKUKU|Kind=1|AlternatePart= 
@@ -456,6 +461,7 @@ Variation58=Designator=R403|UniqueId=\EXQVUWJW\ZWMGKHHO|Kind=1|AlternatePart=
 Variation59=Designator=R405|UniqueId=\EXQVUWJW\ZZUYHEPX|Kind=1|AlternatePart= 
 Variation60=Designator=R407|UniqueId=\EXQVUWJW\RBYVRCSL|Kind=1|AlternatePart= 
 Variation61=Designator=R408|UniqueId=\EXQVUWJW\WQLVBZSW|Kind=1|AlternatePart= 
+Variation62=Designator=C221|UniqueId=\VZMBMHNO\NZNWULHW|Kind=0|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -500,7 +506,7 @@ Value=SDRR
 
 [Parameter10]
 Name=PopulateLabel
-Value=NF
+Value=DNI
 
 [Parameter11]
 Name=Project_Version
@@ -555,6 +561,36 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Configuration2]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration3]
+Name=Assembly DEVELOPMENT
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=DEVELOPMENT
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Configuration4]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
 
 [Generic_EDE]
 OutputDir=

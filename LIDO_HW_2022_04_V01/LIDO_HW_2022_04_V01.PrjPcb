@@ -124,7 +124,7 @@ DocumentUniqueId=ESLMFAHY
 
 [Document5]
 DocumentPath=LIDO-HW.100.FrontConnector.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -141,7 +141,7 @@ DocumentUniqueId=JBWKUOSS
 
 [Document6]
 DocumentPath=LIDO-HW.100.RearConnector.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -158,7 +158,7 @@ DocumentUniqueId=JWZCQZXE
 
 [Document7]
 DocumentPath=LIDO-HW.100.VinAndPower.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -175,7 +175,7 @@ DocumentUniqueId=NVXSONQO
 
 [Document8]
 DocumentPath=LIDO-HW.100.InputStage_1.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -192,7 +192,7 @@ DocumentUniqueId=BOLNJGYZ
 
 [Document9]
 DocumentPath=LIDO-HW.100.InputStage_2.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -209,7 +209,7 @@ DocumentUniqueId=XGVVBGIE
 
 [Document10]
 DocumentPath=LIDO-HW.100.OutputStage.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -226,7 +226,7 @@ DocumentUniqueId=NEWMAJIJ
 
 [Document11]
 DocumentPath=LIDO-HW.200.MCU_Peripherals_1.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -243,7 +243,7 @@ DocumentUniqueId=ZBABOITZ
 
 [Document12]
 DocumentPath=LIDO-HW.200.MCU_Peripherals_2.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -260,7 +260,7 @@ DocumentUniqueId=EHGBPKNY
 
 [Document13]
 DocumentPath=LIDO-HW.200.MCU_SWD_Reset.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -277,7 +277,7 @@ DocumentUniqueId=NCTAFULN
 
 [Document14]
 DocumentPath=LIDO-HW.200.SecurityAndTemperature.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -493,88 +493,88 @@ DocumentPath=Output Documents\04_BOM\LIDO_HW_V02_17052022.xls
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ReviewerAbb
-Value=*Param
-
-[Parameter2]
-Name=Reviewer
-Value=*Param
-
-[Parameter3]
-Name=ReleaseDate
-Value=*Param
-
-[Parameter4]
-Name=Project_VersionDate
-Value=11/04/2022
-
-[Parameter5]
-Name=Project_Version
-Value=0
-
-[Parameter6]
-Name=ProjectVariant
-Value=Development
-
-[Parameter7]
-Name=ProjectStartDate
-Value=07/04/2022
-
-[Parameter8]
-Name=ProjectRevisionDate
-Value=*Param
-
-[Parameter9]
-Name=ProjectRevision
-Value=.3
-
-[Parameter10]
-Name=ProjectNumber
-Value=*xxxxx
-
-[Parameter11]
-Name=ProjectBoardName
-Value=LIDO
-
-[Parameter12]
-Name=PopulateLabel
-Value=DNI
-
-[Parameter13]
-Name=MainProjectName
-Value=SDRR
-
-[Parameter14]
-Name=HardwareDesignerAbb
-Value=*Param
-
-[Parameter15]
-Name=HardwareDesigner
-Value=FG
-
-[Parameter16]
-Name=EngineeringSample
-Value=B-Sample
-
-[Parameter17]
 Name=Company_Name
 Value=Dott (emTransit B.V.)
 
-[Parameter18]
-Name=CompanyAddress4
-Value=The Netherlands
+[Parameter2]
+Name=CompanyAddress1
+Value=Westerdok
 
-[Parameter19]
-Name=CompanyAddress3
-Value=1013 CR, Amsterdam
-
-[Parameter20]
+[Parameter3]
 Name=CompanyAddress2
 Value=Van Diemenstraat 292
 
+[Parameter4]
+Name=CompanyAddress3
+Value=1013 CR, Amsterdam
+
+[Parameter5]
+Name=CompanyAddress4
+Value=The Netherlands
+
+[Parameter6]
+Name=EngineeringSample
+Value=B-Sample
+
+[Parameter7]
+Name=HardwareDesigner
+Value=FG
+
+[Parameter8]
+Name=HardwareDesignerAbb
+Value=*Param
+
+[Parameter9]
+Name=MainProjectName
+Value=SDRR
+
+[Parameter10]
+Name=PopulateLabel
+Value=DNI
+
+[Parameter11]
+Name=Project_Version
+Value=0
+
+[Parameter12]
+Name=Project_VersionDate
+Value=11/04/2022
+
+[Parameter13]
+Name=ProjectBoardName
+Value=LIDO
+
+[Parameter14]
+Name=ProjectNumber
+Value=*xxxxx
+
+[Parameter15]
+Name=ProjectRevision
+Value=.3
+
+[Parameter16]
+Name=ProjectRevisionDate
+Value=*Param
+
+[Parameter17]
+Name=ProjectStartDate
+Value=07/04/2022
+
+[Parameter18]
+Name=ProjectVariant
+Value=Development
+
+[Parameter19]
+Name=ReleaseDate
+Value=*Param
+
+[Parameter20]
+Name=Reviewer
+Value=*Param
+
 [Parameter21]
-Name=CompanyAddress1
-Value=Westerdok
+Name=ReviewerAbb
+Value=*Param
 
 [Configuration1]
 Name=Sources

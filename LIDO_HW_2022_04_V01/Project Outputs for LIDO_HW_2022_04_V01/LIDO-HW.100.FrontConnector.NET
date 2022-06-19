@@ -1,0 +1,140 @@
+Wire List
+
+<<< Component List >>>
+100p                            C100           CAP_0603_1608X90-N_MURATA_A
+100p                            C101           CAP_0603_1608X90-N_MURATA_A
+100p                            C102           CAP_0603_1608X90-N_MURATA_A
+1000p                           C103           CAP_0603_1608X90-N_MURATA_A
+100p                            C104           CAP_0603_1608X90-N_MURATA_A
+1000p                           C105           CAP_0603_1608X90-N_MURATA_A
+100p                            C106           CAP_0603_1608X90-N_MURATA_A
+100p                            C107           CAP_0603_1608X90-N_MURATA_A
+100p                            C108           CAP_0603_1608X90-N_MURATA_A
+100p                            C109           CAP_0603_1608X90-N_MURATA_A
+1000p                           C110           CAP_0603_1608X90-N_MURATA_A
+5VWM                            D100           NXP_SOD-323_250X125X95L30x32_
+5VWM                            D101           NXP_SOD-323_250X125X95L30x32_
+5VWM                            D102           NXP_SOD-323_250X125X95L30x32_
+12VWM                           D103           NXP_SOD-323_250X125X95L30x32_
+5VWM                            D104           NXP_SOD-323_250X125X95L30x32_
+5VWM                            D105           NXP_SOD-323_250X125X95L30x32_
+12VWM                           D106           NXP_SOD-323_250X125X95L30x32_
+5VWM                            D107           NXP_SOD-323_250X125X95L30x32_
+5VWM                            D108           NXP_SOD-323_250X125X95L30x32_
+5VWM                            D109           NXP_SOD-323_250X125X95L30x32_
+12VWM                           D110           NXP_SOD-323_250X125X95L30x32_
+120 O/100MHz                    FB100          IND_0603_1608X95-N_AVX_A
+120 O/100MHz                    FB101          IND_0603_1608X95-N_AVX_A
+120 O/100MHz                    FB102          IND_0603_1608X95-N_AVX_A
+BM24B-GHDS-TF(LF)(SN)           X100           JST_BM24B-GHDS-TF_A
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00001] +5V_SNS
+        X100       9       9              PASSIVE     BM24B-GHDS-TF(LF)(SN)
+        X100       15      15             PASSIVE     BM24B-GHDS-TF(LF)(SN)
+        X100       18      18             PASSIVE     BM24B-GHDS-TF(LF)(SN)
+        X100       19      19             PASSIVE     BM24B-GHDS-TF(LF)(SN)
+
+[00002] GND
+        C100       1       1              PASSIVE     100p
+        C101       1       1              PASSIVE     100p
+        C102       1       1              PASSIVE     100p
+        C103       1       1              PASSIVE     1000p
+        C104       1       1              PASSIVE     100p
+        C105       2       2              PASSIVE     1000p
+        C106       2       2              PASSIVE     100p
+        C107       1       1              PASSIVE     100p
+        C108       2       2              PASSIVE     100p
+        C109       2       2              PASSIVE     100p
+        C110       2       2              PASSIVE     1000p
+        D100       A       A              PASSIVE     5VWM
+        D101       A       A              PASSIVE     5VWM
+        D102       A       A              PASSIVE     5VWM
+        D103       A       A              PASSIVE     12VWM
+        D104       A       A              PASSIVE     5VWM
+        D105       A       A              PASSIVE     5VWM
+        D106       C       C              PASSIVE     12VWM
+        D107       C       C              PASSIVE     5VWM
+        D108       C       C              PASSIVE     5VWM
+        D109       C       C              PASSIVE     5VWM
+        D110       C       C              PASSIVE     12VWM
+        X100       1       1              PASSIVE     BM24B-GHDS-TF(LF)(SN)
+        X100       4       4              PASSIVE     BM24B-GHDS-TF(LF)(SN)
+        X100       5       5              PASSIVE     BM24B-GHDS-TF(LF)(SN)
+        X100       8       8              PASSIVE     BM24B-GHDS-TF(LF)(SN)
+        X100       13      13             PASSIVE     BM24B-GHDS-TF(LF)(SN)
+        X100       14      14             PASSIVE     BM24B-GHDS-TF(LF)(SN)
+        X100       17      17             PASSIVE     BM24B-GHDS-TF(LF)(SN)
+        X100       22      22             PASSIVE     BM24B-GHDS-TF(LF)(SN)
+        X100       23      23             PASSIVE     BM24B-GHDS-TF(LF)(SN)
+
+[00003] INDICATOR_LEFT_PWR_CONN
+        C103       2       2              PASSIVE     1000p
+        D103       C       C              PASSIVE     12VWM
+        FB100      1       1              PASSIVE     120 O/100MHz
+        X100       2       2              PASSIVE     BM24B-GHDS-TF(LF)(SN)
+
+[00004] INDICATOR_RIGHT_PWR_CONN
+        C105       1       1              PASSIVE     1000p
+        D106       A       A              PASSIVE     12VWM
+        FB102      1       1              PASSIVE     120 O/100MHz
+        X100       24      24             PASSIVE     BM24B-GHDS-TF(LF)(SN)
+
+[00005] NetC100_2
+        C100       2       2              PASSIVE     100p
+        D100       C       C              PASSIVE     5VWM
+        X100       7       7              PASSIVE     BM24B-GHDS-TF(LF)(SN)
+
+[00006] NetC101_2
+        C101       2       2              PASSIVE     100p
+        D101       C       C              PASSIVE     5VWM
+        X100       6       6              PASSIVE     BM24B-GHDS-TF(LF)(SN)
+
+[00007] NetC102_2
+        C102       2       2              PASSIVE     100p
+        D102       C       C              PASSIVE     5VWM
+        X100       3       3              PASSIVE     BM24B-GHDS-TF(LF)(SN)
+
+[00008] NetC104_2
+        C104       2       2              PASSIVE     100p
+        D104       C       C              PASSIVE     5VWM
+        X100       10      10             PASSIVE     BM24B-GHDS-TF(LF)(SN)
+
+[00009] NetC106_1
+        C106       1       1              PASSIVE     100p
+        D107       A       A              PASSIVE     5VWM
+        X100       16      16             PASSIVE     BM24B-GHDS-TF(LF)(SN)
+
+[00010] NetC108_1
+        C108       1       1              PASSIVE     100p
+        D108       A       A              PASSIVE     5VWM
+        X100       21      21             PASSIVE     BM24B-GHDS-TF(LF)(SN)
+
+[00011] NetC109_1
+        C109       1       1              PASSIVE     100p
+        D109       A       A              PASSIVE     5VWM
+        X100       20      20             PASSIVE     BM24B-GHDS-TF(LF)(SN)
+
+[00012] NetFB100_2
+        FB100      2       2              PASSIVE     120 O/100MHz
+
+[00013] NetFB101_1
+        FB101      1       1              PASSIVE     120 O/100MHz
+
+[00014] NetFB102_2
+        FB102      2       2              PASSIVE     120 O/100MHz
+
+[00015] SPARE_GPIO1_CONN
+        C107       2       2              PASSIVE     100p
+        D105       C       C              PASSIVE     5VWM
+        X100       11      11             PASSIVE     BM24B-GHDS-TF(LF)(SN)
+
+[00016] SPARE_OUT1_PWR_CONN
+        C110       1       1              PASSIVE     1000p
+        D110       A       A              PASSIVE     12VWM
+        FB101      2       2              PASSIVE     120 O/100MHz
+        X100       12      12             PASSIVE     BM24B-GHDS-TF(LF)(SN)
+

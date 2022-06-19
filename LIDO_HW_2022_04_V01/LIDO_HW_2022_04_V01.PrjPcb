@@ -489,92 +489,96 @@ Variation86=Designator=R165|UniqueId=\UYBGNSKM\XNLYHAKV|Kind=0|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for LIDO_HW_2022_04_V01\LIDO-HW.100.FrontConnector.NET
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Output Documents\04_BOM\LIDO_HW_V02_17052022.xls
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Company_Name
-Value=Dott (emTransit B.V.)
+Name=ReviewerAbb
+Value=*Param
 
 [Parameter2]
-Name=CompanyAddress1
-Value=Westerdok
-
-[Parameter3]
-Name=CompanyAddress2
-Value=Van Diemenstraat 292
-
-[Parameter4]
-Name=CompanyAddress3
-Value=1013 CR, Amsterdam
-
-[Parameter5]
-Name=CompanyAddress4
-Value=The Netherlands
-
-[Parameter6]
-Name=EngineeringSample
-Value=B-Sample
-
-[Parameter7]
-Name=HardwareDesigner
-Value=FG
-
-[Parameter8]
-Name=HardwareDesignerAbb
-Value=*Param
-
-[Parameter9]
-Name=MainProjectName
-Value=SDRR
-
-[Parameter10]
-Name=PopulateLabel
-Value=DNI
-
-[Parameter11]
-Name=Project_Version
-Value=0
-
-[Parameter12]
-Name=Project_VersionDate
-Value=11/04/2022
-
-[Parameter13]
-Name=ProjectBoardName
-Value=LIDO
-
-[Parameter14]
-Name=ProjectNumber
-Value=*xxxxx
-
-[Parameter15]
-Name=ProjectRevision
-Value=.3
-
-[Parameter16]
-Name=ProjectRevisionDate
-Value=*Param
-
-[Parameter17]
-Name=ProjectStartDate
-Value=07/04/2022
-
-[Parameter18]
-Name=ProjectVariant
-Value=Development
-
-[Parameter19]
-Name=ReleaseDate
-Value=*Param
-
-[Parameter20]
 Name=Reviewer
 Value=*Param
 
-[Parameter21]
-Name=ReviewerAbb
+[Parameter3]
+Name=ReleaseDate
 Value=*Param
+
+[Parameter4]
+Name=Project_VersionDate
+Value=11/04/2022
+
+[Parameter5]
+Name=Project_Version
+Value=0
+
+[Parameter6]
+Name=ProjectVariant
+Value=Development
+
+[Parameter7]
+Name=ProjectStartDate
+Value=07/04/2022
+
+[Parameter8]
+Name=ProjectRevisionDate
+Value=*Param
+
+[Parameter9]
+Name=ProjectRevision
+Value=.3
+
+[Parameter10]
+Name=ProjectNumber
+Value=*xxxxx
+
+[Parameter11]
+Name=ProjectBoardName
+Value=LIDO
+
+[Parameter12]
+Name=PopulateLabel
+Value=DNI
+
+[Parameter13]
+Name=MainProjectName
+Value=SDRR
+
+[Parameter14]
+Name=HardwareDesignerAbb
+Value=*Param
+
+[Parameter15]
+Name=HardwareDesigner
+Value=FG
+
+[Parameter16]
+Name=EngineeringSample
+Value=B-Sample
+
+[Parameter17]
+Name=Company_Name
+Value=Dott (emTransit B.V.)
+
+[Parameter18]
+Name=CompanyAddress4
+Value=The Netherlands
+
+[Parameter19]
+Name=CompanyAddress3
+Value=1013 CR, Amsterdam
+
+[Parameter20]
+Name=CompanyAddress2
+Value=Van Diemenstraat 292
+
+[Parameter21]
+Name=CompanyAddress1
+Value=Westerdok
 
 [Configuration1]
 Name=Sources
@@ -622,105 +626,107 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HP LaserJet 700 color MFP M775 [CE8867]
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=CadnetixNetlist
-OutputName1=Cadnetix Netlist
+OutputType1=ProtelNetlist
+OutputName1=Protel
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=CalayNetlist
-OutputName2=Calay Netlist
+OutputType2=RacalNetlist
+OutputName2=Racal Netlist
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=EDIF
-OutputName3=EDIF for PCB
+OutputType3=Protel2Netlist
+OutputName3=Protel2 Netlist
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=EESofNetlist
-OutputName4=EESof Netlist
+OutputType4=PCADNetlist
+OutputName4=PCAD Netlist
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=IntergraphNetlist
-OutputName5=Intergraph Netlist
+OutputType5=PCADnltNetlist
+OutputName5=PCADnlt Netlist
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=MentorBoardStationNetlist
-OutputName6=Mentor BoardStation Netlist
+OutputType6=TelesisNetlist
+OutputName6=Telesis Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=MultiWire
-OutputName7=MultiWire
+OutputType7=WireListNetlist
+OutputName7=WireList Netlist
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=OrCadPCB2Netlist
-OutputName8=Orcad/PCB2 Netlist
+Configuration7_Name1=ForceUpdateSettings
+Configuration7_Item1=False
+OutputType8=TangoNetlist
+OutputName8=Tango Netlist
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=PADSNetlist
-OutputName9=PADS ASCII Netlist
+OutputType9=RINFNetlist
+OutputName9=RINF Netlist
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Pcad
-OutputName10=Pcad for PCB
+OutputType10=SciCardsNetlist
+OutputName10=SciCards Netlist
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=PCADNetlist
-OutputName11=PCAD Netlist
+OutputType11=EESofNetlist
+OutputName11=EESof Netlist
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=PCADnltNetlist
-OutputName12=PCADnlt Netlist
+OutputType12=IntergraphNetlist
+OutputName12=Intergraph Netlist
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Protel2Netlist
-OutputName13=Protel2 Netlist
+OutputType13=EDIF
+OutputName13=EDIF for PCB
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-OutputType14=ProtelNetlist
-OutputName14=Protel
+OutputType14=CadnetixNetlist
+OutputName14=Cadnetix Netlist
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
-OutputType15=RacalNetlist
-OutputName15=Racal Netlist
+OutputType15=CalayNetlist
+OutputName15=Calay Netlist
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-OutputType16=RINFNetlist
-OutputName16=RINF Netlist
+OutputType16=PADSNetlist
+OutputName16=PADS ASCII Netlist
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-OutputType17=SciCardsNetlist
-OutputName17=SciCards Netlist
+OutputType17=Pcad
+OutputName17=Pcad for PCB
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-OutputType18=TangoNetlist
-OutputName18=Tango Netlist
+OutputType18=OrCadPCB2Netlist
+OutputName18=Orcad/PCB2 Netlist
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-OutputType19=TelesisNetlist
-OutputName19=Telesis Netlist
+OutputType19=MentorBoardStationNetlist
+OutputName19=Mentor BoardStation Netlist
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-OutputType20=WireListNetlist
-OutputName20=WireList Netlist
+OutputType20=MultiWire
+OutputName20=MultiWire
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
@@ -1309,13 +1315,13 @@ Type2=1
 Type3=1
 Type4=1
 Type5=1
-Type6=1
+Type6=0
 Type7=1
 Type8=1
 Type9=1
 Type10=1
 Type11=1
-Type12=1
+Type12=0
 Type13=1
 Type14=1
 Type15=1
@@ -1366,7 +1372,7 @@ Type59=1
 Type60=1
 Type61=1
 Type62=1
-Type63=1
+Type63=0
 Type64=1
 Type65=1
 Type66=1

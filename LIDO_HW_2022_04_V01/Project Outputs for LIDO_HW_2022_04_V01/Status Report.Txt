@@ -1,0 +1,10 @@
+Output: WireList Netlist
+Type  : WireListNetlist
+From  : Project [LIDO_HW_2022_04_V01.PrjPcb]
+   Generated File[LIDO-HW.100.FrontConnector.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:14:55 On 18/06/2022

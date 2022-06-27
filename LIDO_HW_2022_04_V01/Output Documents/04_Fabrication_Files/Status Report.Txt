@@ -26,17 +26,28 @@ From  : PCB Document [LIDO_HW_2022_04_V01.PcbDoc]
    Generated File[LIDO_HW_2022_04_V01_Top_Assembly_1.gbr]
    Generated File[LIDO_HW_2022_04_V01_Mechanical_4.gbr]
    Generated File[LIDO_HW_2022_04_V01_Mechanical_5.gbr]
+   Generated File[LIDO_HW_2022_04_V01_Mechanical_11.gbr]
+   Generated File[LIDO_HW_2022_04_V01_Mechanical_12.gbr]
    Generated File[LIDO_HW_2022_04_V01_Profile.gbr]
    Generated File[LIDO_HW_2022_04_V01_NPTH_Drill.gbr]
    Generated File[LIDO_HW_2022_04_V01_PTH_Drill.gbr]
+   Generated File[LIDO_HW_2022_04_V01_Plated_Drill_2_5.gbr]
+   Generated File[LIDO_HW_2022_04_V01_uVias_Drill_1_2.gbr]
+   Generated File[LIDO_HW_2022_04_V01_uVias_Drill_5_6.gbr]
    Generated File[LIDO_HW_2022_04_V01_Drawing_1.gbr]
+   Generated File[LIDO_HW_2022_04_V01_Drawing_2.gbr]
+   Generated File[LIDO_HW_2022_04_V01_Drawing_3.gbr]
+   Generated File[LIDO_HW_2022_04_V01_Drawing_4.gbr]
    Generated File[LIDO_HW_2022_04_V01_Drillmap_1.gbr]
+   Generated File[LIDO_HW_2022_04_V01_Drillmap_2.gbr]
+   Generated File[LIDO_HW_2022_04_V01_Drillmap_3.gbr]
+   Generated File[LIDO_HW_2022_04_V01_Drillmap_4.gbr]
    Generated File[LIDO_PCB_V03.RUL]
    Generated File[LIDO_PCB_V03.EXTREP]
    Generated File[LIDO_PCB_V03.REP]
 
 
-Files Generated   : 33
+Files Generated   : 44
 Documents Printed : 0
 
-Finished Output Generation At 15:21:10 On 23/06/2022
+Finished Output Generation At 16:53:45 On 27/06/2022

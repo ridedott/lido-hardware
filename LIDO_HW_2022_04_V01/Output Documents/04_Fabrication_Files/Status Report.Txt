@@ -1,53 +1,11 @@
-Output: Gerber X2 Files
-Type  : GerberX2
-From  : PCB Document [LIDO_HW_2022_04_V01.PcbDoc]
-   Generated File[LIDO_HW_2022_04_V01_Copper_Signal_Top.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Copper_Signal_1.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Copper_Signal_2.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Copper_Signal_3.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Copper_Signal_4.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Copper_Signal_Bot.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Pads_Bot.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Pads_Top.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Paste_Bot.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Legend_Bot.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Soldermask_Bot.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Legend_Top.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Paste_Top.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Soldermask_Top.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Top_Assembly.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Bottom_Assembly.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Mechanical_8.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Bottom_Courtyard.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Board_Shape.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Bottom_Assembly_1.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Mechanical_7.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Top_Courtyard.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Top_Assembly_1.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Mechanical_4.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Mechanical_5.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Mechanical_11.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Mechanical_12.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Profile.gbr]
-   Generated File[LIDO_HW_2022_04_V01_NPTH_Drill.gbr]
-   Generated File[LIDO_HW_2022_04_V01_PTH_Drill.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Plated_Drill_2_5.gbr]
-   Generated File[LIDO_HW_2022_04_V01_uVias_Drill_1_2.gbr]
-   Generated File[LIDO_HW_2022_04_V01_uVias_Drill_5_6.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Drawing_1.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Drawing_2.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Drawing_3.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Drawing_4.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Drillmap_1.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Drillmap_2.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Drillmap_3.gbr]
-   Generated File[LIDO_HW_2022_04_V01_Drillmap_4.gbr]
-   Generated File[LIDO_PCB_V03.RUL]
-   Generated File[LIDO_PCB_V03.EXTREP]
-   Generated File[LIDO_PCB_V03.REP]
+Output: PickAndPlace
+Type  : Pick Place
+From  : Variant [DEVELOPMENT] of PCB Document [LIDO_HW_2022_04_V01.PcbDoc]
+   Generated File[LIDO_V03_DEVELOPMENT_04_07_2022.txt]
+   Generated File[LIDO_V03_DEVELOPMENT_04_07_2022.csv]
 
 
-Files Generated   : 44
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 16:43:36 On 29/06/2022
+Finished Output Generation At 21:35:38 On 02/07/2022

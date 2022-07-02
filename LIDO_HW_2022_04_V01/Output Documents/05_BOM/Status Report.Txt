@@ -1,17 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 11:13:27 On 21/06/2022
+Start Output Generation At 21:31:56 On 02/07/2022
 
 Output: Bill of Materials
 Type  : BOM
 From  : Variant [DEVELOPMENT] of Project [LIDO_HW_2022_04_V01.PrjPcb]
-   Generated File[LIDO_HW_V02_21062022.xls]
-
-DOTT Info:
-Project Info	: LIDO
-Project version	: 0.3
-Project phase	: 1st prototype.
-
-Note		: 
+   Generated File[BOM LIDO_V03_DEVELOPMENT_04_07_2022.xls]
 
 
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:32:00 On 02/07/2022

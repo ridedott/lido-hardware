@@ -1,0 +1,6 @@
+Layer Pairs Export File for PCB: C:\Dott\LIDO\lido-hardware\LIDO_HW_2022_04_V01\LIDO_HW_2022_04_V01.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=lido_v03_development_04_07_2022-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=lido_v03_development_04_07_2022-nonplated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=INNER 1_INNER 4_Buried_Vias|DrillFile=lido_v03_development_04_07_2022-plated.tx2|DrillLayers=g1,g2,g3,g4
+LayersSetName=TOP_INNER 1_Blind_Vias|DrillFile=lido_v03_development_04_07_2022-plated.tx4|DrillLayers=gtl,g1
+LayersSetName=INNER 4_BOTTOM_Blind_Vias|DrillFile=lido_v03_development_04_07_2022-plated.tx6|DrillLayers=g4,gbl

@@ -1,0 +1,13 @@
+DRC Rules Export File for PCB: C:\Dott\LIDO\lido-hardware\LIDO_HW_2022_04_V01\LIDO_HW_2022_04_V01.PcbDoc
+RuleKind=Clearance|RuleName=c_GND_L2_L4_L5|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=c_PWR_DRIVER|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=cVIA_PWR_BOARD|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=cVIA_PWR_DRIVER|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=cVIA_PWR_VIN|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=c_PWR_VIN|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=c_PWR_BOARD|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=cU200|Scope=Board|Minimum=4.92
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

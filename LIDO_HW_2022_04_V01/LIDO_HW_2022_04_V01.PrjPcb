@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for LIDO_HW_2022_04_V01
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -505,896 +505,420 @@ DocumentPath=Output Documents\05_BOM\BOM LIDO_V03_DEVELOPMENT_04_07_2022.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Project Outputs for LIDO_HW_2022_04_V01\Design Rule Check - LIDO_HW_2022_04_V01.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\board_shape\features
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\bottom_assembly\features
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\bottom_courtyard\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\core_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\core_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\dielectric_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\dielectric_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\dielectric_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_blind_vias_mid1-mid4\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_drawing_mid1-mid4\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_drawing_mid4-bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_drawing_top-bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_drawing_top-mid1\features
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_guide_mid1-mid4\features
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_guide_mid4-bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_guide_top-bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_guide_top-mid1\features
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_micro_vias_mid4-bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_micro_vias_top-mid1\features
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_plated_bottom-top\features
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\inner_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\inner_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\inner_4\features
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\inner__2\features
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\mechanical_11\features
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\mechanical_12\features
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\top\features
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\top_assembly\features
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\top_courtyard\features
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument45]
 DocumentPath=Project Outputs for LIDO_HW_2022_04_V01\LIDO-HW.100.FrontConnector.NET
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument4]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Board_Shape.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument5]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Bottom_Assembly.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument6]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Bottom_Assembly_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument7]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Bottom_Courtyard.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument8]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument9]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument10]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Copper_Signal_3.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument11]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Copper_Signal_4.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument12]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument13]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument14]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Drawing_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument15]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Drawing_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument16]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Drawing_3.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument17]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Drawing_4.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument18]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Drillmap_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument19]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Drillmap_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument62]
+[GeneratedDocument20]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Drillmap_3.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument21]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Drillmap_4.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument22]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument65]
+[GeneratedDocument23]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument24]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Mechanical_4.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument25]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Mechanical_5.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument68]
+[GeneratedDocument26]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Mechanical_7.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument69]
+[GeneratedDocument27]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Mechanical_8.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument70]
+[GeneratedDocument28]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Mechanical_11.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument71]
+[GeneratedDocument29]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Mechanical_12.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument72]
+[GeneratedDocument30]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument73]
+[GeneratedDocument31]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Pads_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument74]
+[GeneratedDocument32]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Pads_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument75]
+[GeneratedDocument33]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument76]
+[GeneratedDocument34]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument77]
+[GeneratedDocument35]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Plated_Drill_2_5.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument78]
+[GeneratedDocument36]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument79]
+[GeneratedDocument37]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument80]
+[GeneratedDocument38]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument81]
+[GeneratedDocument39]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Soldermask_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument82]
+[GeneratedDocument40]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Top_Assembly.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument83]
+[GeneratedDocument41]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Top_Assembly_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument84]
+[GeneratedDocument42]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_Top_Courtyard.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument85]
+[GeneratedDocument43]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_uVias_Drill_1_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument86]
+[GeneratedDocument44]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_HW_2022_04_V01_uVias_Drill_5_6.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument87]
-DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_PCB_V03-NonPlated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument88]
-DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_PCB_V03-Plated.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument89]
-DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_PCB_V03-Plated.TX4
-DItemRevisionGUID=
-
-[GeneratedDocument90]
-DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_PCB_V03-Plated.TX6
-DItemRevisionGUID=
-
-[GeneratedDocument91]
-DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_PCB_V03-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument92]
-DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_PCB_V03.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument93]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument94]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_PCB_V03.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument95]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.G1
-DItemRevisionGUID=
-
-[GeneratedDocument96]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.G2
-DItemRevisionGUID=
-
-[GeneratedDocument97]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.G3
-DItemRevisionGUID=
-
-[GeneratedDocument98]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.G4
-DItemRevisionGUID=
-
-[GeneratedDocument99]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument100]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument101]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument102]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument103]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument104]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument105]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GM11
-DItemRevisionGUID=
-
-[GeneratedDocument106]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GM12
-DItemRevisionGUID=
-
-[GeneratedDocument107]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument108]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument109]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument110]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument111]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument112]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument113]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument114]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument115]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument116]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument117]
-DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_PCB_V03.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument118]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.REP
-DItemRevisionGUID=
-
-[GeneratedDocument119]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_PCB_V03.REP
-DItemRevisionGUID=
-
-[GeneratedDocument120]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_PCB_V03.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument121]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_PCB_V03.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument122]
-DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_V03-NonPlated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument123]
-DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_V03-Plated.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument124]
-DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_V03-Plated.TX4
-DItemRevisionGUID=
-
-[GeneratedDocument125]
-DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_V03-Plated.TX6
-DItemRevisionGUID=
-
-[GeneratedDocument126]
-DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_V03-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument127]
-DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_V03.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument128]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument129]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_V03.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument130]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.G1
-DItemRevisionGUID=
-
-[GeneratedDocument131]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.G2
-DItemRevisionGUID=
-
-[GeneratedDocument132]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.G3
-DItemRevisionGUID=
-
-[GeneratedDocument133]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.G4
-DItemRevisionGUID=
-
-[GeneratedDocument134]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument135]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument136]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument137]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument138]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument139]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument140]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GM11
-DItemRevisionGUID=
-
-[GeneratedDocument141]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GM12
-DItemRevisionGUID=
-
-[GeneratedDocument142]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument143]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument144]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument145]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument146]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument147]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument148]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument149]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument150]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument151]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument152]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument153]
-DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_V03.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument154]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\LIDO_V03.zip
-DItemRevisionGUID=
-
-[GeneratedDocument155]
+[GeneratedDocument45]
 DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_V03_DEVELOPMENT_04_07_2022-NonPlated.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument156]
+[GeneratedDocument46]
 DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_V03_DEVELOPMENT_04_07_2022-Plated.TX2
 DItemRevisionGUID=
 
-[GeneratedDocument157]
+[GeneratedDocument47]
 DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_V03_DEVELOPMENT_04_07_2022-Plated.TX4
 DItemRevisionGUID=
 
-[GeneratedDocument158]
+[GeneratedDocument48]
 DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_V03_DEVELOPMENT_04_07_2022-Plated.TX6
 DItemRevisionGUID=
 
-[GeneratedDocument159]
+[GeneratedDocument49]
 DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_V03_DEVELOPMENT_04_07_2022-Plated.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument160]
+[GeneratedDocument50]
 DocumentPath=Output Documents\04_Fabrication_Files\PickAndPlace\LIDO_V03_DEVELOPMENT_04_07_2022.csv
 DItemRevisionGUID=
 
-[GeneratedDocument161]
+[GeneratedDocument51]
 DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_V03_DEVELOPMENT_04_07_2022.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument162]
+[GeneratedDocument52]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument163]
+[GeneratedDocument53]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_V03_DEVELOPMENT_04_07_2022.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument164]
+[GeneratedDocument54]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.G1
 DItemRevisionGUID=
 
-[GeneratedDocument165]
+[GeneratedDocument55]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.G2
 DItemRevisionGUID=
 
-[GeneratedDocument166]
+[GeneratedDocument56]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.G3
 DItemRevisionGUID=
 
-[GeneratedDocument167]
+[GeneratedDocument57]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.G4
 DItemRevisionGUID=
 
-[GeneratedDocument168]
+[GeneratedDocument58]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument169]
+[GeneratedDocument59]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument170]
+[GeneratedDocument60]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument171]
+[GeneratedDocument61]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument172]
+[GeneratedDocument62]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument173]
+[GeneratedDocument63]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument174]
+[GeneratedDocument64]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GM11
 DItemRevisionGUID=
 
-[GeneratedDocument175]
+[GeneratedDocument65]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GM12
 DItemRevisionGUID=
 
-[GeneratedDocument176]
+[GeneratedDocument66]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument177]
+[GeneratedDocument67]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GM14
 DItemRevisionGUID=
 
-[GeneratedDocument178]
+[GeneratedDocument68]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument179]
+[GeneratedDocument69]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GM16
 DItemRevisionGUID=
 
-[GeneratedDocument180]
+[GeneratedDocument70]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument181]
+[GeneratedDocument71]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument182]
+[GeneratedDocument72]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument183]
+[GeneratedDocument73]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument184]
+[GeneratedDocument74]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument185]
+[GeneratedDocument75]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument186]
+[GeneratedDocument76]
 DocumentPath=Output Documents\04_Fabrication_Files\NC Drill Files\LIDO_V03_DEVELOPMENT_04_07_2022.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument187]
+[GeneratedDocument77]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.REP
 DItemRevisionGUID=
 
-[GeneratedDocument188]
+[GeneratedDocument78]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_V03_DEVELOPMENT_04_07_2022.REP
 DItemRevisionGUID=
 
-[GeneratedDocument189]
+[GeneratedDocument79]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber Files\LIDO_V03_DEVELOPMENT_04_07_2022.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument190]
+[GeneratedDocument80]
 DocumentPath=Output Documents\04_Fabrication_Files\Gerber X2 Files\LIDO_V03_DEVELOPMENT_04_07_2022.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument191]
+[GeneratedDocument81]
 DocumentPath=Output Documents\04_Fabrication_Files\PickAndPlace\LIDO_V03_DEVELOPMENT_04_07_2022.txt
 DItemRevisionGUID=
 
-[GeneratedDocument192]
+[GeneratedDocument82]
 DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\LIDO_V03_DEVELOPMENT_04_07_2022.zip
 DItemRevisionGUID=
 
-[GeneratedDocument193]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument194]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument195]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument196]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument197]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_blind_vias_mid1-mid4\tools
-DItemRevisionGUID=
-
-[GeneratedDocument198]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_micro_vias_mid4-bottom\tools
-DItemRevisionGUID=
-
-[GeneratedDocument199]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_micro_vias_top-mid1\tools
-DItemRevisionGUID=
-
-[GeneratedDocument200]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
-DItemRevisionGUID=
-
-[GeneratedDocument201]
-DocumentPath=Output Documents\04_Fabrication_Files\ODB++ Files\odb\steps\pcb\layers\drill_plated_bottom-top\tools
-DItemRevisionGUID=
-
 [Parameter1]
-Name=ReviewerAbb
-Value=*Param
+Name=Company_Name
+Value=Dott (emTransit B.V.)
 
 [Parameter2]
-Name=Reviewer
-Value=*Param
+Name=CompanyAddress1
+Value=Westerdok
 
 [Parameter3]
-Name=Release_Date
-Value=30/06/2022
+Name=CompanyAddress2
+Value=Van Diemenstraat 292
 
 [Parameter4]
-Name=Project_VersionDate
-Value=20/05/2022
+Name=CompanyAddress3
+Value=1013 CR, Amsterdam
 
 [Parameter5]
-Name=Project_Version
-Value=0
+Name=CompanyAddress4
+Value=The Netherlands
 
 [Parameter6]
-Name=ProjectVariant
-Value=Development
+Name=EngineeringSample
+Value=B-Sample
 
 [Parameter7]
-Name=ProjectStartDate
-Value=07/04/2022
+Name=FileGeneration_Date
+Value=04_07_2022
 
 [Parameter8]
-Name=ProjectRevisionDate
-Value=*Param
+Name=HardwareDesigner
+Value=FG
 
 [Parameter9]
-Name=ProjectRevision
-Value=.3
+Name=HardwareDesignerAbb
+Value=*Param
 
 [Parameter10]
-Name=ProjectNumber
-Value=*xxxxx
+Name=MainProjectName
+Value=SDRR
 
 [Parameter11]
-Name=ProjectBoardName
-Value=LIDO
+Name=OutputJobFilesName
+Value=LIDO_V03
 
 [Parameter12]
 Name=PopulateLabel
 Value=DNI
 
 [Parameter13]
-Name=OutputJobFilesName
-Value=LIDO_V03
+Name=Project_Version
+Value=0
 
 [Parameter14]
-Name=MainProjectName
-Value=SDRR
+Name=Project_VersionDate
+Value=20/05/2022
 
 [Parameter15]
-Name=HardwareDesignerAbb
-Value=*Param
+Name=ProjectBoardName
+Value=LIDO
 
 [Parameter16]
-Name=HardwareDesigner
-Value=FG
+Name=ProjectNumber
+Value=*xxxxx
 
 [Parameter17]
-Name=FileGeneration_Date
-Value=04_07_2022
+Name=ProjectRevision
+Value=.3
 
 [Parameter18]
-Name=EngineeringSample
-Value=B-Sample
+Name=ProjectRevisionDate
+Value=*Param
 
 [Parameter19]
-Name=Company_Name
-Value=Dott (emTransit B.V.)
+Name=ProjectStartDate
+Value=07/04/2022
 
 [Parameter20]
-Name=CompanyAddress4
-Value=The Netherlands
+Name=ProjectVariant
+Value=Development
 
 [Parameter21]
-Name=CompanyAddress3
-Value=1013 CR, Amsterdam
+Name=Release_Date
+Value=30/06/2022
 
 [Parameter22]
-Name=CompanyAddress2
-Value=Van Diemenstraat 292
+Name=Reviewer
+Value=*Param
 
 [Parameter23]
-Name=CompanyAddress1
-Value=Westerdok
+Name=ReviewerAbb
+Value=*Param
 
 [Configuration1]
 Name=Sources
@@ -1437,7 +961,7 @@ ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
 
 [Generic_EDE]
-OutputDir=Project Outputs for LIDO_HW_2022_04_V01
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
